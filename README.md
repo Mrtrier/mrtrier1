@@ -1,4 +1,3 @@
-# mrtrier1
 # 🌐 MrTrier Personal Website
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -27,7 +26,7 @@ Hosted with *GitHub Pages* 🌍.
 ## 🚀 Features
 ✅ Responsive design (mobile & desktop)  
 ✅ Portfolio/projects section  
-✅ Contact information  
+✅ Contact information & social links  
 ✅ Easy to update with GitHub commits  
 
 ---
@@ -40,10 +39,14 @@ Here are some things I’ll showcase on the site:
 
 ---
 
-## 📬 Contact
-- GitHub: [@mrtrier](https://github.com/mrtrier)  
-- Email: (githuibenson393@gmail.com)
-- WhatsApp : (+254740412020)  
+## 📬 Contact & Socials
+- 📧 *Email:* [your-email@example.com](mailto:your-email@example.com)  
+- 🐙 *GitHub:* [@mrtrier](https://github.com/mrtrier)  
+- 💬 *WhatsApp:* [Chat with me](https://wa.me/254740412020)  
+- 🎵 *TikTok:* [@yourtiktok](https://www.tiktok.com/@mrtrier05?_t=ZM-8zO9s9B5Rcm&_r=1)  
+- 📱 *Telegram:* [@yourtelegram](https://t.me/mrtriertech)  
+- 📸 *Instagram:* [@yourinstagram](https://www.instagram.com/trier.mr?igsh=MXJ0dDByMndteDAwOQ==)  
+- 📘 *Facebook:* [Your Facebook Profile](https://www.facebook.com/profile.php?id=61572445202567)  
 
 ---
 
