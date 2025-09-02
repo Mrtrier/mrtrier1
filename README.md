@@ -42,8 +42,8 @@ Here are some things I’ll showcase on the site:
 
 ## 📬 Contact
 - GitHub: [@mrtrier](https://github.com/mrtrier)  
-- Email: (add your email if you want)  
-- LinkedIn: (optional)  
+- Email: (githuibenson393@gmail.com)
+- WhatsApp : (+254740412020)  
 
 ---
 
